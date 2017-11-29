@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.7" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="1" attributes="0">
+              <EmptySpace min="-2" pref="106" max="-2" attributes="0"/>
+              <Component id="jScrollPane1" pref="600" max="32767" attributes="0"/>
+              <EmptySpace min="-2" pref="20" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <Component id="jScrollPane1" pref="416" max="32767" attributes="0"/>
+              <EmptySpace min="-2" pref="22" max="-2" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Container class="javax.swing.JScrollPane" name="jScrollPane1">
+      <AuxValues>
+        <AuxValue name="autoScrollPane" type="java.lang.Boolean" value="true"/>
+      </AuxValues>
+
+      <Layout class="org.netbeans.modules.form.compat2.layouts.support.JScrollPaneSupportLayout"/>
+      <SubComponents>
+        <Component class="javax.swing.JTextArea" name="jTextArea1">
+          <Properties>
+            <Property name="columns" type="int" value="20"/>
+            <Property name="rows" type="int" value="5"/>
+            <Property name="text" type="java.lang.String" value="&#xa;The main factor that decides the success and the failures of man and his life is his Lucky name and his signature. If a name and signature are made lucky a man can achieve success after success in every action of his life. The lucky name can be either a small alteration in the current name or sometimes a change of name itself. With a very small alteration a man or woman can achieve great success in life . Every problem faced by humanity can be solved by lucky name with Lucky number. There are so many men and women in the world who have good character, untiring efforts, sincerity , honesty, goodness, hard work, self confidence, self control and courage and yet they suffer for lack of success in their life with failures which means that they are unlucky because of their names and signature. By the lucky name numbers through lucky numerology we make these kind of people highly lucky and hence successful in their lives in all walks. A new and powerful lucky name with a very lucky and positive signature can make even the lowest in the society to reach the highest levels of life . In other words the science of lucky numerology makes virtues out of vices. A lucky name with lucky number can bring a very good and peaceful life with a good family, good and flourishing business, house, wealth , money, fame and position. &#xa;A lucky name with lucky number can be made at any age and at any period of life. This science will make the unlucky lucky and the already lucky even more lucky and powerful. With the help of the science of lucky numerology anyone can achieve greatness even from crippled business, dull business, lack of job, addicted to sex and wine, lack of harmony between husband and wife, fears, hallucinations, blackmagics, witchcrafts, curses and all evil effects of life.&#xa;This science of lucky numerology is pure and harmonious for all people irrespective of land, creed, community and religion. All can succeed through lucky numerology. All those who follow this science of lucky numerology and the goodness related to this science will never ever fail in any aspect in their life"/>
+          </Properties>
+        </Component>
+      </SubComponents>
+    </Container>
+  </SubComponents>
+</Form>
